@@ -18,8 +18,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: <https://www.frontendmentor.io/solutions/solution-using-flexbox-OtTjfM_fFp>
+- Live Site URL: <https://beepbot99.github.io/qr-code-component/>
 
 ### Built with
 
@@ -31,7 +31,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Github - [BeepBot99](https://github.com/beepbot99)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@BeepBot99](https://www.frontendmentor.io/profile/BeepBot99)
 
 ## Acknowledgments
 
